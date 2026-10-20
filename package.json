@@ -1,0 +1,31 @@
+{
+  "name": "freelance-ru-tax-js",
+  "version": "1.0.0",
+  "description": "Compare Russian NPD (self-employed) vs IP na USN tax for freelancers -- 2026 rates, fixed contributions, income limit, crypto-income grey area. Zero dependencies, runs via npx straight from GitHub. Not tax advice.",
+  "bin": {
+    "freelance-ru-tax": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "author": "kleogeos",
+  "keywords": [
+    "freelance",
+    "tax",
+    "russia",
+    "self-employed",
+    "cli",
+    "zero-dependencies",
+    "npx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kleogeos/freelance-ru-tax-js"
+  },
+  "homepage": "https://kleogeos.github.io/freelancer-tools/"
+}
