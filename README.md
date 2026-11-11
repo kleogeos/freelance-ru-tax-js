@@ -43,7 +43,7 @@ Does **not** cover regional УСН rate discounts, employees, УСН "Доход
 
 There's also a free [browser version](https://kleogeos.github.io/freelancer-tools/kalkulyator-samozanyatyy-ili-ip.html) with the same math, a [Python CLI](https://github.com/kleogeos/freelance-ru-tax-cli) if you'd rather not touch npx, a full [written breakdown](https://kleogeos.github.io/freelancer-tools/samozanyatyy-ili-ip-dlya-frilansera-2026.html) of НПД vs ИП for freelancers, and more free tools at [Freelancer Toolbox](https://kleogeos.github.io/freelancer-tools/).
 
-Если после расчёта нужны документы для работы с клиентом: [7 шаблонов для фрилансера на Boosty — 590 ₽](https://boosty.to/freelancerkit/posts/9a3bc4b3-98d4-42c6-8e8d-7a564604a1b6). В наборе договор, коммерческое предложение, бриф, счёт, акт, чек-лист запуска проекта и письмо-напоминание. Покупка разовая; калькулятор выше остаётся бесплатным.
+Если после расчёта нужны документы для работы с иностранным клиентом: [7 шаблонов на английском на Boosty — 590 ₽](https://boosty.to/freelancerkit/posts/9a3bc4b3-98d4-42c6-8e8d-7a564604a1b6). В архиве редактируемые Markdown-файлы: предложение, договор, счёт и напоминания об оплате, сценарии переписки, расчёт ставки, бриф и письма для поиска заказов. Покупка разовая; калькулятор выше остаётся бесплатным.
 
 ### License
 
