@@ -1,6 +1,6 @@
 {
   "name": "freelance-ru-tax-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compare Russian NPD (self-employed) vs IP na USN tax for freelancers -- 2026 rates, fixed contributions, income limit, crypto-income grey area. Zero dependencies, runs via npx straight from GitHub. Not tax advice.",
   "bin": {
     "freelance-ru-tax": "./index.js"
